@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="openSSLTest.vcxproj" Id="288e3abf-d972-4995-a78f-59e89d870ab3" />
+</Solution>

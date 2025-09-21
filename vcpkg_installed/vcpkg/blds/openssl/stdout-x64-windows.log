@@ -1,0 +1,41 @@
+Downloading https://github.com/openssl/openssl/archive/openssl-3.5.3.tar.gz -> openssl-openssl-openssl-3.5.3.tar.gz
+Successfully downloaded openssl-openssl-openssl-3.5.3.tar.gz
+-- Extracting source C:/Users/NICCOMPANY_YSY/AppData/Local/vcpkg/downloads/openssl-openssl-openssl-3.5.3.tar.gz
+-- Applying patch cmake-config.patch
+-- Applying patch command-line-length.patch
+-- Applying patch script-prefix.patch
+-- Applying patch windows/install-layout.patch
+-- Applying patch windows/install-pdbs.patch
+-- Applying patch unix/android-cc.patch
+-- Applying patch unix/move-openssldir.patch
+-- Applying patch unix/no-empty-dirs.patch
+-- Applying patch unix/no-static-libs-for-shared.patch
+-- Using source at D:/openSSLTest/vcpkg_installed/vcpkg/blds/openssl/src/nssl-3.5.3-78bf900265.clean
+-- Found external ninja('1.12.1').
+-- Getting CMake variables for x64-windows
+-- Loading CMake variables from D:/openSSLTest/vcpkg_installed/vcpkg/blds/openssl/cmake-get-vars_C_CXX-x64-windows.cmake.log
+Downloading https://github.com/StrawberryPerl/Perl-Dist-Strawberry/releases/download/SP_54021_64bit_UCRT/strawberry-perl-5.40.2.1-64bit-portable.zip -> strawberry-perl-5.40.2.1-64bit-portable.zip
+Successfully downloaded strawberry-perl-5.40.2.1-64bit-portable.zip
+Downloading nasm-2.16.03-win64.zip, trying https://www.nasm.us/pub/nasm/releasebuilds/2.16.03/win64/nasm-2.16.03-win64.zip
+Successfully downloaded nasm-2.16.03-win64.zip
+-- Getting CMake variables for x64-windows
+Downloading jom_1_1_4.zip, trying https://download.qt.io/official_releases/jom/jom_1_1_4.zip
+Successfully downloaded jom_1_1_4.zip
+-- Prerunning x64-windows-dbg
+-- Building x64-windows-dbg
+-- Prerunning x64-windows-rel
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: D:/openSSLTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/lib/pkgconfig/libcrypto.pc
+-- Fixing pkgconfig file: D:/openSSLTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/lib/pkgconfig/libssl.pc
+-- Fixing pkgconfig file: D:/openSSLTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/lib/pkgconfig/openssl.pc
+Downloading msys2-mingw-w64-x86_64-pkgconf-1~2.4.3-1-any.pkg.tar.zst, trying https://mirror.msys2.org/mingw/mingw64/mingw-w64-x86_64-pkgconf-1~2.4.3-1-any.pkg.tar.zst
+Successfully downloaded msys2-mingw-w64-x86_64-pkgconf-1~2.4.3-1-any.pkg.tar.zst
+Downloading msys2-msys2-runtime-3.6.2-2-x86_64.pkg.tar.zst, trying https://mirror.msys2.org/msys/x86_64/msys2-runtime-3.6.2-2-x86_64.pkg.tar.zst
+Successfully downloaded msys2-msys2-runtime-3.6.2-2-x86_64.pkg.tar.zst
+-- Using msys root at C:/Users/NICCOMPANY_YSY/AppData/Local/vcpkg/downloads/tools/msys2/9272adbcaf19caef
+-- Fixing pkgconfig file: D:/openSSLTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/debug/lib/pkgconfig/libcrypto.pc
+-- Fixing pkgconfig file: D:/openSSLTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/debug/lib/pkgconfig/libssl.pc
+-- Fixing pkgconfig file: D:/openSSLTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/debug/lib/pkgconfig/openssl.pc
+-- Installing: D:/openSSLTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/share/openssl/usage
+-- Installing: D:/openSSLTest/vcpkg_installed/vcpkg/pkgs/openssl_x64-windows/share/openssl/copyright
+-- 빌드 후 유효성 검사를 수행하는 중

@@ -1,0 +1,9 @@
+prefix=D:\openSSLTest\vcpkg_installed\vcpkg\blds\openssl\x64-windows-rel
+exec_prefix=${prefix}
+libdir=${exec_prefix}
+includedir=${prefix}/include ${prefix}/./include 
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Version: 3.5.3
+Requires: libssl libcrypto

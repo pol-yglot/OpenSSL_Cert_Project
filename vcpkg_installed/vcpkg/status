@@ -1,0 +1,31 @@
+Package: vcpkg-cmake
+Version: 2024-04-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 4e30e8ce90d042b48bbdb930e627b9a93fa212a57400c4995ef0a6e98474f526
+Status: install ok installed
+
+Package: vcpkg-cmake-get-vars
+Version: 2025-05-29
+Depends: vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 26aed1ab636e08f16d9543aac19ac58587ccfaac77c3c4faa85be0b6e111b5bc
+Status: install ok installed
+
+Package: vcpkg-cmake-config
+Version: 2024-05-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 903a80466261c61051dc453ff53b00ae449143a652eb1fb8e6a89edb472db0f8
+Status: install ok installed
+
+Package: openssl
+Version: 3.5.3
+Depends: vcpkg-cmake, vcpkg-cmake-config, vcpkg-cmake-get-vars
+Architecture: x64-windows
+Multi-Arch: same
+Abi: accf078686aa2a911766e1a4f12c33be13ab6325483ac2935d2bbc4dbd095900
+Description: OpenSSL is an open source project that provides a robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols. It is also a general-purpose cryptography library.
+Status: install ok installed
+

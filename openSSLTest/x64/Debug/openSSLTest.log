@@ -1,0 +1,4 @@
+﻿  The vcpkg manifest was disabled, but we found a manifest file in D:\openSSLTest\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  openSSLTest.cpp
+     D:\openSSLTest\x64\Debug\openSSLTest.lib 라이브러리 및 D:\openSSLTest\x64\Debug\openSSLTest.exp 개체를 생성하고 있습니다.
+  openSSLTest.vcxproj -> D:\openSSLTest\x64\Debug\openSSLTest.exe
